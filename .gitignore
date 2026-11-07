@@ -48,3 +48,10 @@ Thumbs.db
 
 # Node (si se usa para Claude Code)
 node_modules/
+
+# Respaldos locales (contienen .env y datos privados)
+respaldos/
+
+# Carpeta temporal del deploy a Railway
+.deploy/
+deploy.sh
